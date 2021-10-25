@@ -17,6 +17,6 @@ g++ ./2.cpp -o ./usefork
 
 ##### Em python:
 ~~~python
-python run 3.py
+python run 18-1.py
 ~~~
 
